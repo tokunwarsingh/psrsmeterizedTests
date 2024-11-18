@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Parmeterized.UnitTests/Parmeterized.UnitTests/.vs
+/Parmeterized.UnitTests/Parmeterized.UnitTests/bin/Debug/net8.0
+/Parmeterized.UnitTests/Parmeterized.UnitTests/obj
+/Parmeterized.UnitTests/TestProject.UnitTests/bin/Debug/net8.0
+/Parmeterized.UnitTests/TestProject.UnitTests/obj
